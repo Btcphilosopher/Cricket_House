@@ -1,0 +1,6 @@
+{
+  "name": "CRICKET HOUSE",
+  "description": "The operating system for the modern game. Live scores, ball-by-ball commentary, real-time streaming, advanced analytics, historical archives, and AI analyst.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
